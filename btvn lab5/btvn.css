@@ -1,0 +1,139 @@
+body{
+background-color: #C0C0C0;
+}
+
+h1{
+    border: 2px solid #E0E0E0;
+    background-color:#E0E0E0 ;
+    padding:15px;
+}
+
+ p{
+    border: 1px solid #3894D7;
+    background-color:#1795E3 ;
+    color: white;
+    display: block;
+     padding: 5px;
+     margin: 0px;
+}
+p1{
+    border: 1px solid #1591E1;
+    background-color:#1795E3;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin:0px ;
+
+}
+p2{
+    border: 1px solid #0F9BE4;
+    background-color:#06A1E6 ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p3{
+    border: 1px solid #30AAE9;
+    background-color:#30AAE9 ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+p4{
+    border: 1px solid #37ACEA;
+    background-color:#54B6EE ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p5{
+    border: 1px solid #57B7EE;
+    background-color:#71C1F1 ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p6{
+    border: 1px solid #72C1F1;
+    background-color:#8CCAF2 ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p7{
+    border: 1px solid #13BB89;
+    background-color:#13BB89 ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p8{
+    border: 1px solid #F6B0CC;
+    background-color:#F6B0CC ;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+p9{
+    border: 1px solid #F7A0C0;
+    background-color:#F7A0C0;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+p10{
+    border: 1px solid #F57AA6;
+    background-color:#F57AA6;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p11{
+    border: 1px solid #F36A98;
+    background-color:#F36A98;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+p12{
+    border: 1px solid #F57AA6;
+    background-color:#F57AA6;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
+p13{
+    border: 1px solid #F45A8B;
+    background-color:#F45A8B;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+p14{
+    border: 1px solid #EF3E80;
+    background-color:#EF3E80;
+    color: white;
+    display: block;
+    padding: 5px;
+    margin-top:-18px;
+}
+
