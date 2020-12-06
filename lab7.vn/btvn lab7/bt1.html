@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>forms</title>
+</head>
+<body>
+<form action="http://www.example.com/subscribe.php">
+    <fieldset>
+        <legend>Your Details:</legend>
+        <p>Name:
+        <input type="text"Name="name"size="50"maxlength="10">
+        </p>
+
+        <p>Email:
+            <input type="text"email="Email"size="50"maxlength="10">
+
+        </p>
+
+    </fieldset>
+    <br>
+
+    <fieldset>
+        <legend>Your Review</legend>
+
+     <label> How did you hear about us</label>
+     <select name="font-size" size="1" multiple="multiple"
+         <option value="google" selected="selected">google</option>
+        <option value="google">google</option>
+         <option value="Friend">Friend</option>
+         <option value="Advert">Advert</option>
+         <option value="Other">Other</option>
+        </select>
+        <br/>
+    </br>
+
+        <label>Would you visit again?</label>
+    </br>
+
+        <input type="radio"name="select"value="Yes" /> Yes
+        <input type="radio"name="select"value="No" />No
+        <input type="radio"name="select"value="Maybe" />Maybe
+        </br>
+        </br>
+
+        <label >comments</label>
+        </br>
+        <textarea name="comments" cols="30" rows="5"></textarea>
+
+        </br>
+        </br>
+
+        <label >
+            <input type="checkbox"name="checkbox">sign me up for email updates
+
+        </label>
+        </br>
+
+        <label >
+            <input type="submit review"value="submit review" >
+        </label>
+
+
+    </fieldset>
+
+
+</form>
+</body>
+</html>
