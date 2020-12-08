@@ -1,0 +1,51 @@
+table {
+    border: 1px solid #CBD2D8 ;
+    width: auto;
+    border-collapse:collapse;
+}
+
+.khoi1{
+    border: 2px solid #749ABE;
+    padding: 25px;
+    width:auto;
+    background-color:#90B4D6;
+    color: white;
+    text-shadow:  0px -1px 0px #ffffff;
+
+}
+.khoi2 {
+    border: 2px solid #CCD3D9 ;
+    padding: 25px;
+    width:auto;
+    background-color:#E1EAF0;
+    color: #666666;
+
+}
+
+.khoi3 {
+    border: 2px solid #CBD2D8;
+    padding: 25px;
+    width:auto;
+    background-color:#E1EAF0;
+    color: #666666;
+}
+
+.khoi4{
+    border: 2px solid #CBD2D8;
+    padding: 25px;
+    width:auto;
+    background-color:#E1EAF0;
+    color: #666666;
+}
+
+.khoi5 {
+    border: 2px solid #CBD2D8;
+    padding: 25px;
+    width:auto;
+    background-color:#E1EAF0;
+    color: #666666;
+}
+.cot1{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 25px;
+}
