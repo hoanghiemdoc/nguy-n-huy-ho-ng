@@ -1,0 +1,61 @@
+body{
+    font-family: Courier New, Courier, monospace;
+}
+
+.hoptonhat {
+    border: 2px solid;
+    width: 1000px;
+    height: 500px;
+    display: block;
+    text-align: center;
+    margin-left: 150px;
+
+}
+.hopto {
+    border: 2px solid;
+    width: 993px;
+    height: 494px;
+    margin: 1px;
+}
+.tren img{
+    padding: 30px;
+
+}
+.tren{
+    border-bottom: 2px solid;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+
+
+
+.giua{
+    letter-spacing: 0.4em;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+div.duoi img {
+    padding: 10px;
+    border-top: 2px solid;
+}
+
+div.duoi p{
+    line-height: 20px;
+    margin-right: 182px;
+    margin-left: 185px;
+
+}
+.tin1{
+    color: red;
+}
+
+
+
+
+
+
+
+
